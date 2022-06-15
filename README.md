@@ -1,2 +1,6 @@
 # fasm-emu-low-to-upper
-Converts bottom to top
+Converts the bottom to the top without touching the top
+
+# Example 
+in string: AAAghjkfghjkfr
+out string: AAAGHJKFGHJKFR
